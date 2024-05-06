@@ -4,3 +4,5 @@ The widely used GTZAN dataset is employed for experimentation.
 Dataset Link: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 
 Through this process I found that the transfer learning-based model has performed best among all three models
+
+White paper link: https://docs.google.com/document/d/1ONDiISoJe1c0qMbM37R0L51Svo2ktXcTmnKLeFPhFeI/edit?usp=sharing
